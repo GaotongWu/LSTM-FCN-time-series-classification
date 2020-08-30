@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LSTM FCN for Time Series Classification
 LSTM FCN models, from the paper [LSTM Fully Convolutional Networks for Time Series Classification](https://ieeexplore.ieee.org/document/8141873/), augment the fast classification performance of Temporal Convolutional layers with the precise classification of Long Short Term Memory Recurrent Neural Networks.
 
@@ -125,3 +126,6 @@ After applying a Dunn-Sidak Correction, we compare the p-value table to an alpha
   publisher={IEEE}
 }
 ```
+=======
+# LSTM-FCN-time-series-classification
+>>>>>>> 0bb26c6910f514148e53c3de832e201311453a6a
