@@ -2,7 +2,7 @@ import os
 
 from keras import backend as K
 from keras.layers import Conv1D, BatchNormalization, GlobalAveragePooling1D, Permute, Dropout, Flatten
-from keras.layers import Input, Dense, LSTM, CuDNNLSTM, concatenate, Activation, GRU, SimpleRNN
+from keras.layers import Input, Dense, LSTM, concatenate, Activation, GRU, SimpleRNN
 from keras.models import Model
 
 from utils.constants import MAX_SEQUENCE_LENGTH_LIST, NB_CLASSES_LIST
